@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Zhenyu Liu</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -16,9 +16,36 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi! I am an undergraduate student in Software Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My current research interests include neural network compression, efficient deep learning, FPGA, and transfer learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Selected Projects
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+![project1](project1.png)
+
+**Quantization and Efficient Deployment of Neural Networks**
+
+This project is to deploy a NN for analyzing radar echoes on a hardware platform with limited computing resources. We complete the quantization of the NN and the hardware implementation. After verifying the project on Xilinx's Zynq UltraScale+ MPSoC ZCU102 board, we furtherly deploy it on ZED-7020. Finally,we can reduce both the energy consumption and thecircuit areas significantly without affecting the performance. 
+
+
+## Education Experience
+
+
++ [Sep. 2019 - Jun. 2023] **University of Electronic Science and Technology of China**
+  + B.E. in Software  Engineering
+
+## Research Experiences
+
+
++ [Jul. 2020 - Present] **University of Electronic Science and Technology of China**
+  + Research Assistant
+
+
+## Awards
+
+
++ 2021，National Second Prize of China Computer Design Competition
++ 2021，Provincial First Prize of China College Students' 'Internet+'Innovation and Entrepreneurship Competition
++ 2019&2020，The Second Prize Scholarship
