@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <b>Zhenyu<b/>(Vincent) Liu 刘震宇 # the website title (if blank, full name will be used instead)
+title: Zhenyu(Vincent) Liu 刘震宇 # the website title (if blank, full name will be used instead)
 first_name: Liu
 middle_name: Zhen
 last_name: yu
@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: https://github.com/epsilondom/epsilondom.github.io/blob/master/assets/img/uestc.jpeg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://epsilondom.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -29,7 +29,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -55,7 +55,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitLhab user name
+github_username: epsilondom
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -73,7 +73,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  lzy001225@outlook.com
+  4 Second Section, Jianshe North Road, Chenghua District, Chengdu, Sichuan, China
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: <b>Zhenyu<b/>(Vincent) Liu  # your blog must have a name for it to show up in the nav bar
+blog_name: Zhenyu(Vincent) Liu  # your blog must have a name for it to show up in the nav bar
 blog_description: One paper a day Unemployment away
 permalink: /blog/:year/:title/
 
