@@ -18,32 +18,31 @@ Hi! I am an undergraduate student in Software Engineering at [University of Elec
 
 My current research interests include neural network compression, efficient deep learning, FPGA, and transfer learning.
 
-## Selected Projects
-
-
-<p align="left"><img src="https://github.com/epsilondom/epsilondom.github.io/blob/master/assets/img/project1.png" width=400></p>
-
-**Quantization and Efficient Deployment of Neural Networks**
-
-This project is to deploy a NN for analyzing radar echoes on a hardware platform with limited computing resources. We complete the quantization of the NN and the hardware implementation. After verifying the project on Xilinx's Zynq UltraScale+ MPSoC ZCU102 board, we furtherly deploy it on ZED-7020. Finally,we can reduce both the energy consumption and thecircuit areas significantly without affecting the performance. 
-
-
 ## Education Experience
-
+***
 
 + [Sep. 2019 - Jun. 2023] **University of Electronic Science and Technology of China**
   + B.E. in Software  Engineering
 
 ## Research Experiences
-
+***
 
 + [Jul. 2020 - Present] **University of Electronic Science and Technology of China**
   + Research Assistant
 
 
 ## Awards
-
+***
 
 + 2021，National Second Prize of China Computer Design Competition
 + 2021，Provincial First Prize of China College Students' 'Internet+'Innovation and Entrepreneurship Competition
 + 2019&2020，The Second Prize Scholarship
+
+## Selected Projects
+***
+
+<p align="center"><img src="https://github.com/epsilondom/epsilondom.github.io/blob/master/assets/img/project1.png" ></p>
+
+**Quantization and Efficient Deployment of Neural Networks**
+
+This project is to deploy a NN for analyzing radar echoes on a hardware platform with limited computing resources. We complete the quantization of the NN and the hardware implementation. After verifying the project on Xilinx's Zynq UltraScale+ MPSoC ZCU102 board, we furtherly deploy it on ZED-7020. Finally,we can reduce both the energy consumption and thecircuit areas significantly without affecting the performance. 
