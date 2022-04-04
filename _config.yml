@@ -55,7 +55,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: epsilondom
+github_username: # your GitLhab user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Zhenyu Liu  # your blog must have a name for it to show up in the nav bar
+blog_name: <b>Zhenyu<b/>(Vincent) Liu  # your blog must have a name for it to show up in the nav bar
 blog_description: One paper a day Unemployment away
 permalink: /blog/:year/:title/
 
