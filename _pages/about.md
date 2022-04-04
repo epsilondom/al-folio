@@ -19,29 +19,29 @@ Hi! I am an undergraduate student in Software Engineering at [University of Elec
 My current research interests include neural network compression, efficient deep learning, FPGA, and transfer learning.
 
 ## Education Experience
-***
+
 
 + [Sep. 2019 - Jun. 2023] **University of Electronic Science and Technology of China**
   + B.E. in Software  Engineering
 
 ## Research Experiences
-***
+
 
 + [Jul. 2020 - Present] **University of Electronic Science and Technology of China**
   + Research Assistant
 
 
 ## Awards
-***
+
 
 + 2021，National Second Prize of China Computer Design Competition
 + 2021，Provincial First Prize of China College Students' 'Internet+'Innovation and Entrepreneurship Competition
 + 2019&2020，The Second Prize Scholarship
 
 ## Selected Projects
-***
 
-<p align="center"><img src="https://github.com/epsilondom/epsilondom.github.io/blob/master/assets/img/project1.png" ></p>
+
+<p align="center"><img src="project1.png" ></p>
 
 **Quantization and Efficient Deployment of Neural Networks**
 
