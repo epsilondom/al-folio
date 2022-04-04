@@ -21,7 +21,7 @@ My current research interests include neural network compression, efficient deep
 ## Selected Projects
 
 
-<p align="center"><img src="https://github.com/epsilondom/epsilondom.github.io/blob/master/assets/img/project1.png" width=400></p>
+<p align="left"><img src="https://github.com/epsilondom/epsilondom.github.io/blob/master/assets/img/project1.png" width=400></p>
 
 **Quantization and Efficient Deployment of Neural Networks**
 
