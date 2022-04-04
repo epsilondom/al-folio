@@ -1,6 +1,6 @@
 ---
 layout: About
-title: About
+title: sb
 permalink: /
 subtitle: One paper a day Unemployment away.
 
