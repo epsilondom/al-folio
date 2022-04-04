@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Zhenyu Liu</a>.
+subtitle: One paper a day Unemployment away.
 
 profile:
   align: right
@@ -11,8 +11,8 @@ profile:
     <p>Chengdu,Sichuan,China</p>
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 Hi! I am an undergraduate student in Software Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
