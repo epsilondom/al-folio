@@ -1,6 +1,6 @@
 ---
 layout: About
-title: sb
+title: About
 permalink: /
 subtitle: One paper a day Unemployment away.
 
@@ -41,7 +41,7 @@ My current research interests include neural network compression, efficient deep
 ## Selected Projects
 
 
-<p align="center"><img src="project1.png" ></p>
+<p align="center"><img src="/assets/img/project1.png" ></p>
 
 **Quantization and Efficient Deployment of Neural Networks**
 
