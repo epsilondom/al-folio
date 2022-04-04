@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 subtitle: One paper a day Unemployment away.
 
 profile:
