@@ -41,7 +41,7 @@ My current research interests include neural network compression, efficient deep
 ## Selected Projects
 
 
-<p align="center"><img src="/assets/img/project1.png"width = "60%" ></p>
+<p align="center"><img src="/assets/img/project1.png" alt="project1" style="zoom:50%;" / ></p>
 
 **Quantization and Efficient Deployment of Neural Networks**
 
