@@ -6,4 +6,4 @@ description: CV
 nav: true
 ---
 
-<iframe src="/assets/pdf/Zhenyu Liu.pdf"></iframe>
+<iframe src="assets/pdf/Zhenyu%20Liu.pdf"></iframe>
