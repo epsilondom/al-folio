@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /CV/
+layout: 
+permalink: /assets/pdf/Zhenyu_Liu.pdf
 title: CV
 description: This is my CV
 nav: true
