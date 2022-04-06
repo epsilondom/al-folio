@@ -6,7 +6,7 @@ subtitle: One paper a day Unemployment away.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   address: >
     <p>Chengdu,Sichuan,China</p>
 
