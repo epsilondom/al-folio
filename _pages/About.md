@@ -46,3 +46,6 @@ My current research interests include neural network compression, efficient deep
 **Quantization and Efficient Deployment of Neural Networks**
 
 This project is to deploy a NN for analyzing radar echoes on a hardware platform with limited computing resources. We complete the quantization of the NN and the hardware implementation. After verifying the project on Xilinx's Zynq UltraScale+ MPSoC ZCU102 board, we furtherly deploy it on ZED-7020. Finally,we can reduce both the energy consumption and thecircuit areas significantly without affecting the performance. 
+
+
+<a href="https://clustrmaps.com/site/1bnt1"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=rksSeiNFNG7ExRJf16fa0qkP2I3riENDtGxBB0tytDE&cl=ffffff" /></a>
