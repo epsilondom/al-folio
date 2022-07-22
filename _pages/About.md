@@ -7,8 +7,7 @@ subtitle:
 profile:
   align: right
   image: profile.png
-  address: >
-    <p>Chengdu,Sichuan,China</p>
+
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
