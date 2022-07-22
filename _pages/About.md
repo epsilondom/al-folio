@@ -2,7 +2,7 @@
 layout: About
 title: About
 permalink: /
-subtitle: One paper a day Unemployment away.
+subtitle:
 
 profile:
   align: right
