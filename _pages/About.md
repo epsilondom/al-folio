@@ -2,7 +2,7 @@
 layout: About
 title: About
 permalink: /
-subtitle:
+subtitle: Undergraduate at UESTC
 
 profile:
   align: right
@@ -13,15 +13,15 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I am an undergraduate student in Software Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+My name is Zhenyu Liu(刘震宇, Líu Zhènyû)I am an undergraduate student in Software Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
-My current research interests include neural network compression, efficient deep learning, FPGA, and transfer learning.
+**Research:** Now I am working on neural network compression, as well as their deployment on hardware, and their acceleration on hardware like FPGA, Nvidia Jetson Xavier. I have made several explorations to the model quantization and distillation. And I would like to do more research in related fields or high performance computing in the future.
 
-## Education Experience
+## Education
 
 
 + [Sep. 2019 - Jun. 2023] **University of Electronic Science and Technology of China**
-  + B.E. in Software  Engineering
+  + B.E. in Software  Engineering: **GPA: 3.92/4.0**
 
 ## Research Experiences
 
@@ -30,12 +30,11 @@ My current research interests include neural network compression, efficient deep
   + Research Assistant
 
 
-## Awards
+## Awards and Fellowships
 
-
-+ 2021，National Second Prize of China Computer Design Competition
-+ 2021，Provincial First Prize of China College Students' 'Internet+'Innovation and Entrepreneurship Competition
-+ 2019&2020，The Second Prize Scholarship
++ National Second Prize of China Computer Design Competition(2021)
++ Provincial First Prize of China College Students' 'Internet+'Innovation and Entrepreneurship Competition(2021)
++ Outstanding Student Scholarship(2019&2020)
 
 ## Selected Projects
 
